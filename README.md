@@ -1,5 +1,7 @@
 # **Survey Form**
-#### learned it from freecodecamp
+#### learned it from [freeCodeCamp](https://www.freecodecamp.org/)
+###### This is one of the required projects to earn your certification. For this project, you will build a survey form to collect data from your users.
+
 ### **Overview**
 The **Survey Form Project** is a simple web-based form designed to collect user feedback. It demonstrates the use of HTML for structuring forms and CSS for styling them, with an emphasis on accessibility, usability, and clean design.
 
@@ -92,8 +94,8 @@ Example:
 ### **How to Use**
 1. **Clone the Project:**
    ```bash
-   git clone https://github.com/your-username/survey-form.git
-   cd survey-form
+   git clone https://github.com/shadyashraf174/Survey-Form-Certification-Project
+   cd Survey-Form-Certification-Project
    ```
 
 2. **Open the Project:**
